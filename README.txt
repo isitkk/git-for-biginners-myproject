@@ -1,4 +1,4 @@
-Welcome To MyProject!!!
+Welcome to "Git for beginners" MyProject!!!
 
 Author: Karan Kumar Mudi
 
