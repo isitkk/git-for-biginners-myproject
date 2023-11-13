@@ -4,4 +4,4 @@ Author: Karan Kumar Mudi
 
 Twitter: @KKTwitterH
 
-website: infoarena.xyz
+website: www.infoarena.xyz
