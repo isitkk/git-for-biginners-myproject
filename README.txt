@@ -1,5 +1,5 @@
 Welcome To MyProject!!!
 
-Author: Karan Mudi
+Author: Karan Kumar Mudi
 
 Twitter: @KKTwitterH
